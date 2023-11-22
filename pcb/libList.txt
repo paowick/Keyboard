@@ -1,0 +1,3 @@
+https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad
+https://github.com/ebastler/marbastlib#how-to-install
+https://github.com/zykrah/kicad-kle-placer#installation-kicad-7

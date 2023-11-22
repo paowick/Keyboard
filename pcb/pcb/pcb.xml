@@ -1,0 +1,3720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\paowick\Desktop\aoi bara_青いバラ\pcb\pcb\pcb.kicad_sch</source>
+    <date>11/17/2023 22:13:01</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pcb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51abaff7-409e-4641-83eb-6321ec5ede94</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6719a598-080f-4131-8ff9-2391e72b5e71</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c9fbcdb-81b2-4f86-b8e6-bcb8204e7df8</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc57fe21-344a-4ed4-ad49-9cd2e1398230</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b1cf38e-f7b4-4e25-8f7d-8ffb3fac99e5</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90bda6d8-a4d8-4084-bba7-e536702c5eed</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8c0542b-006f-4496-ab75-69161f34d131</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>614ef417-3a37-4789-97e7-532b7c48dca7</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>553cb0d6-ec00-4ed3-bcf5-4178918ee6f3</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4404c647-f5b6-4f1f-a8cc-9460bb2b148d</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19ed8bd5-18fc-4eec-9bc1-2b297514a7d1</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee9ba60d-c3e1-4c59-89f9-708354ff7356</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3575e718-10cc-4aae-8b97-02eaea4ea9e0</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73ba558d-f0f8-466d-98fc-b7a6da163dda</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d36bff96-a817-4dab-9715-2fd55a7edf96</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddc13ab5-cfc2-4c50-98cf-f707c65d75fd</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93df935d-e120-4ca8-bd8d-349c7af004bd</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b7e0b66-cbaf-4012-9b6c-15530421669d</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6da48aab-3b7a-4b4f-90c4-0804cfde48ad</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a9f467a-855a-4270-83bf-26e6039b3baf</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5053966-d980-4464-bc9f-7d8d70dc342f</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>142a4749-d94a-4a51-89ea-3721cdd32c5b</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b231930-91d6-42fe-955a-a2b230ba8276</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e1f6e7-f2ac-446f-bc7f-9f53c419c60a</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69a7efdb-4fc2-4d4e-acdf-6f70fb4271f0</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d712db19-1a4b-480b-9298-3faf4c87e0e9</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f22ce0f4-bc20-4596-8564-bcb595a61cb5</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b08626c-5236-464c-b564-a02aa2474782</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39138626-f388-40d3-8b10-67b428d7783f</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4933979e-0dcc-453e-82d2-6c0f4391da7c</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb7d01bb-238f-4d6f-aaf5-681b823f56d1</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b2bf685-4c88-4d94-8cd8-982d9f673458</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99ec7d55-c9eb-490b-a19b-6784ba33520b</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b15c0e4c-8dd6-4403-94eb-2e2b4b6a912a</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69c5df29-242b-483f-bffb-e8c382652452</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29a90eee-59e4-420d-9561-1e3be9062df8</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97d17662-a99d-4a48-a93f-a018b4f742f2</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b83b497-b61c-4886-9ba0-8f30a1d2d5c0</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebd43b12-4018-4cb4-ab1f-0323468c72f1</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ae722e4-f9e1-4afc-9c7f-45300983d1a9</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>188c86d9-120c-45cb-9216-cb0e41b18e6a</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43f04c09-20f6-4f46-b164-dc1e0d998aa9</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0867b7b-5485-481e-bc87-deac4cf0653a</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>796f8afb-8d67-42f1-a82d-212185f897eb</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4806094-b4db-4fd0-988c-7fd078351102</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1b1f57-f143-4543-b2a8-183d23b10405</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>867f74e6-cde5-4ea3-9373-7bd504fcb675</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72cbc0b2-0cbb-44f5-a49e-ad64f89267c4</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d05f682-2ae6-402a-b2d1-4d7ff9e2fbab</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>713f393f-c79c-4389-89ab-a88197194b78</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9d534da-5554-4f7c-9d3a-9e1c7c50628e</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02ce1296-0af7-4961-9d78-f44b668dbf5f</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab0864a2-f6cd-426b-a60e-4afee8874f4b</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c3b18da-8f9c-43e0-8fb1-2ba04d8fe72e</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>904cec08-7c49-4c33-a8c6-2543f03c21e7</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51a2086b-ab46-4a76-8be0-2b88091444a6</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>764512e6-efc6-4735-b2ce-a51eafe6b9a8</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d012b50-ca75-41df-9825-d989b93d3fa6</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3f3e499-1bdb-4908-b1b4-96c9b0897712</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fda520a3-9aea-4912-994f-9075827cf3c5</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0e37a1d-50b3-4736-88d8-aa47a3dac844</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>141f48a8-d1a1-4318-a90e-21fbd7ac64cf</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f74d29e-49a1-4b5a-882a-c2f92b464e72</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>Diode</value>
+      <footprint>ScottoKeebs_Components:Diode_DO-35</footprint>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="ScottoKeebs" part="Placeholder_Diode" description="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="1N4148 (DO-35) or 1N4148W (SOD-123)"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b61c05d-8024-48e7-821c-7de6f1c383d1</tstamps>
+    </comp>
+    <comp ref="en_co1">
+      <value>RotaryEncoder_Switch</value>
+      <footprint>PCM_marbastlib-various:ROT_Alps_EC11E-Switch</footprint>
+      <libsource lib="Device" part="RotaryEncoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <property name="ki_keywords" value="rotary switch encoder switch push button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54104be9-169a-4716-ac77-c1dc330bebe1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>OLED_128x64</value>
+      <footprint>ScottoKeebs_Components:OLED_128x64</footprint>
+      <libsource lib="ScottoKeebs" part="OLED_128x64" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>503ee828-a7ac-45b1-b553-07ef4e1ee1e2</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32782268-a1ec-4eff-940e-3d0c38ad55ae</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3c1bd38-23f6-4a5b-b317-5d6a8cef0b01</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85075b39-5c2e-42dc-a7bc-f67c80c5a76e</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee3634b1-0a17-4f9b-af1d-5b6bba01e80e</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbed17f4-f532-4812-a0f7-d6d18b5c667d</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e32dbe0d-ded2-4343-b78b-8371c92167a4</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8ee4bf6-9b4b-4abf-919c-97c202040db5</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64ff7476-bfa5-4ac5-844d-8c01d45fbcab</tstamps>
+    </comp>
+    <comp ref="LED9">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25a7a41f-e926-4f0a-9fb1-c19a3c77e18b</tstamps>
+    </comp>
+    <comp ref="LED10">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6026b9d-4cb4-4cc7-992a-e61b8ff47fcb</tstamps>
+    </comp>
+    <comp ref="LED11">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>181f28c7-c2b8-4411-91ce-ef633a0fb7e6</tstamps>
+    </comp>
+    <comp ref="LED12">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8e3d997-b266-4bb8-a2ba-51043cef2de6</tstamps>
+    </comp>
+    <comp ref="LED13">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd7c0ca4-716b-4271-ac7a-25f4f81cfcb4</tstamps>
+    </comp>
+    <comp ref="LED14">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>204ef3d2-6ad0-40a7-b5f0-972a1a1c425c</tstamps>
+    </comp>
+    <comp ref="LED15">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d73abbbb-e3de-478e-8926-3c39364bcd88</tstamps>
+    </comp>
+    <comp ref="LED16">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e50ef907-702c-4b93-aef9-ad64a4449d28</tstamps>
+    </comp>
+    <comp ref="LED17">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>394920f6-8418-4449-a9ef-150f1d2d50f6</tstamps>
+    </comp>
+    <comp ref="LED18">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e93ef35-d498-4441-bc8a-81874d3e8e3a</tstamps>
+    </comp>
+    <comp ref="LED19">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8b611a8-f7b4-4587-b621-e69c610166af</tstamps>
+    </comp>
+    <comp ref="LED20">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1426dc3-e8b3-4d30-b918-2fc618105b41</tstamps>
+    </comp>
+    <comp ref="LED21">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1507538c-4844-42f9-b911-7c652965a2ab</tstamps>
+    </comp>
+    <comp ref="LED22">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>510939d4-d6e8-437c-9d1d-cfc4f219c9c5</tstamps>
+    </comp>
+    <comp ref="LED23">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61570b56-3e06-430c-b9bf-d6d7174ed279</tstamps>
+    </comp>
+    <comp ref="LED24">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1261b2d-74b3-4529-905e-88545417d6a6</tstamps>
+    </comp>
+    <comp ref="LED25">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a2bfb7b-9461-436b-96d2-3ecd936bba66</tstamps>
+    </comp>
+    <comp ref="LED26">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afef30fd-f898-474a-a81d-11b42bca3d3e</tstamps>
+    </comp>
+    <comp ref="LED27">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e67ab658-552b-4fb9-931f-6bbd562a2dd5</tstamps>
+    </comp>
+    <comp ref="LED28">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c668639-b436-44a7-929d-46a7549b841d</tstamps>
+    </comp>
+    <comp ref="LED29">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e04453a-ea1e-4d7c-a523-8469ee31711d</tstamps>
+    </comp>
+    <comp ref="LED30">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24227385-6068-4426-8840-421bb5be62a1</tstamps>
+    </comp>
+    <comp ref="LED31">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6c781a-ff6e-43a8-bdaa-b47de0f249bf</tstamps>
+    </comp>
+    <comp ref="LED32">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc524af3-2ebe-4ee4-8e59-cb92f69d2d59</tstamps>
+    </comp>
+    <comp ref="LED33">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b666d880-f665-4a24-ad91-ef62bf27a848</tstamps>
+    </comp>
+    <comp ref="LED34">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>831c6e82-fe68-4a0b-9fa4-c3ae7f2da1bc</tstamps>
+    </comp>
+    <comp ref="LED35">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b6ee333-1a75-407c-a711-c5d653e332ea</tstamps>
+    </comp>
+    <comp ref="LED36">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1898d96e-c413-44bf-8c99-441dfb254f8e</tstamps>
+    </comp>
+    <comp ref="LED37">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc030e98-0361-44d3-8459-73dff4d4f711</tstamps>
+    </comp>
+    <comp ref="LED38">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>145d6acd-e99f-4376-8fbb-58e2c938e3aa</tstamps>
+    </comp>
+    <comp ref="LED39">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69b17577-1f2a-475e-a1af-af66de75c180</tstamps>
+    </comp>
+    <comp ref="LED40">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d777f6f4-f341-4934-be8b-1b49b221e53e</tstamps>
+    </comp>
+    <comp ref="LED41">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f551033-7dea-45e5-8270-f0470f21eb12</tstamps>
+    </comp>
+    <comp ref="LED42">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa97a19b-bec6-4304-8ac9-e0272683ad75</tstamps>
+    </comp>
+    <comp ref="LED43">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50698501-14d0-426f-bb0a-da4741063503</tstamps>
+    </comp>
+    <comp ref="LED44">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f02b12ec-e6f1-4b1c-b755-b8eb9662f32c</tstamps>
+    </comp>
+    <comp ref="LED45">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a45fa7c-9aac-4341-9c72-4ecb463b59f3</tstamps>
+    </comp>
+    <comp ref="LED46">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31ff2950-06b0-41ae-b4a2-7078bf0978a1</tstamps>
+    </comp>
+    <comp ref="LED47">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ef48f4c-f993-46ac-ba1b-cf5827ceb6ed</tstamps>
+    </comp>
+    <comp ref="LED48">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0265720-01e2-4796-85cd-4f796e5af350</tstamps>
+    </comp>
+    <comp ref="LED49">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea4dacc7-19f9-4554-89ec-dce073f6c6be</tstamps>
+    </comp>
+    <comp ref="LED50">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f876612-759e-4de0-b43b-70cffef4bf84</tstamps>
+    </comp>
+    <comp ref="LED51">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b662506-de20-48db-bea3-baab51646d04</tstamps>
+    </comp>
+    <comp ref="LED52">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8156f414-661c-4a16-8dfb-de36d70931c6</tstamps>
+    </comp>
+    <comp ref="LED53">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20e5888f-7a87-4eb8-8785-b877e2618459</tstamps>
+    </comp>
+    <comp ref="LED54">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7cab41d-a7a9-4676-8f9e-d1f190613c09</tstamps>
+    </comp>
+    <comp ref="LED55">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00973b69-fefe-4d02-91e8-06a53ccf69ab</tstamps>
+    </comp>
+    <comp ref="LED56">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bd0451f-96bd-4f91-8628-7e1ab4f4d730</tstamps>
+    </comp>
+    <comp ref="LED57">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>778c2d3e-6e9c-4f7f-add2-38a9c3b7aaef</tstamps>
+    </comp>
+    <comp ref="LED58">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>575db750-681b-4987-b20a-ef2a0940ea1c</tstamps>
+    </comp>
+    <comp ref="LED59">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64b97f07-84ac-490b-bf71-b8f54486108d</tstamps>
+    </comp>
+    <comp ref="LED60">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e678bb3a-ae0b-48eb-bc3a-b4f57553a5b2</tstamps>
+    </comp>
+    <comp ref="LED61">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4228436d-df64-47ab-9ba9-d497b82d8955</tstamps>
+    </comp>
+    <comp ref="LED62">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59938e74-ccbc-4f9d-8b80-5f9b6b1a458d</tstamps>
+    </comp>
+    <comp ref="LED63">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bbf2040-aa20-4bb1-b804-76294cd002b9</tstamps>
+    </comp>
+    <comp ref="LED64">
+      <value>LED_WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="ScottoKeebs" part="LED_WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69f99af7-fbaa-421f-afb8-5546b096ad43</tstamps>
+    </comp>
+    <comp ref="MX1">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>302eb230-b141-4c7b-b7f8-153845bb05c5</tstamps>
+    </comp>
+    <comp ref="MX2">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d9d9841-8859-475c-ad0d-381dfec51c8d</tstamps>
+    </comp>
+    <comp ref="MX3">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43c87670-0d38-4226-b0be-2213cea9871a</tstamps>
+    </comp>
+    <comp ref="MX4">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1a45f95-56c0-4608-9803-66d5e59ed6f8</tstamps>
+    </comp>
+    <comp ref="MX5">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d722597-1f4e-4ae6-b0e0-6b0a06e3f501</tstamps>
+    </comp>
+    <comp ref="MX6">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53e9a9f1-2429-45d8-b662-4a2ea65ddab1</tstamps>
+    </comp>
+    <comp ref="MX7">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ade01f2-2b48-480d-ae8d-dea0687114ed</tstamps>
+    </comp>
+    <comp ref="MX8">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e152e376-eb8d-4b5b-b8c0-28bd02135711</tstamps>
+    </comp>
+    <comp ref="MX9">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15e17edd-1da6-47cf-9dfa-bb73ea62175a</tstamps>
+    </comp>
+    <comp ref="MX10">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5750b77a-e0c9-4fc3-aaaa-06c9dbcea095</tstamps>
+    </comp>
+    <comp ref="MX11">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>831e0dd9-490a-463c-bcc5-f464fd4ca2da</tstamps>
+    </comp>
+    <comp ref="MX12">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d876f55-493b-41ac-89e7-1bb07ffc1b8c</tstamps>
+    </comp>
+    <comp ref="MX13">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d0244d7-f7c5-494d-b311-b2c6fe102cb1</tstamps>
+    </comp>
+    <comp ref="MX14">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffcdd628-ef64-4a93-b9da-c31b4918def5</tstamps>
+    </comp>
+    <comp ref="MX15">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b948744a-72e6-468b-b47a-f0e2bd70474c</tstamps>
+    </comp>
+    <comp ref="MX16">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4972cec7-0adb-4245-bfc3-f01a3332159b</tstamps>
+    </comp>
+    <comp ref="MX17">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>053bf157-c4e3-4021-9557-330ae54209ec</tstamps>
+    </comp>
+    <comp ref="MX18">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>695d40e1-6bb8-4438-9dfd-1394437cb53d</tstamps>
+    </comp>
+    <comp ref="MX19">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c4b1593-fd54-4f51-a6a6-a1b7d8921182</tstamps>
+    </comp>
+    <comp ref="MX20">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffd1154b-07e5-426a-bd51-1b65242f793f</tstamps>
+    </comp>
+    <comp ref="MX21">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b4024e8-bb65-483b-b011-63c77c674d75</tstamps>
+    </comp>
+    <comp ref="MX22">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>212d141c-821b-4730-afa3-fb445c6ae473</tstamps>
+    </comp>
+    <comp ref="MX23">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81fe1da1-8352-41a4-9a05-fd6168078015</tstamps>
+    </comp>
+    <comp ref="MX24">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>826ccf05-788e-431d-abd3-bff2e5f5df0b</tstamps>
+    </comp>
+    <comp ref="MX25">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7a46ac9-59d3-4f1a-830e-e1b0817bf550</tstamps>
+    </comp>
+    <comp ref="MX26">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79f220d0-eba6-411a-add6-079eea1d8152</tstamps>
+    </comp>
+    <comp ref="MX27">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c52051b-fa91-4f43-a929-378286a34132</tstamps>
+    </comp>
+    <comp ref="MX28">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9139751-2cda-4c5a-a26f-91bdc930c819</tstamps>
+    </comp>
+    <comp ref="MX29">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02c06c4c-3acc-4c0b-9606-49683cacf87b</tstamps>
+    </comp>
+    <comp ref="MX30">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a1177bf-cda6-4cb6-a226-607efbcd1c38</tstamps>
+    </comp>
+    <comp ref="MX31">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a63ba5b-15e7-4bab-bfbf-ad0366c11fcc</tstamps>
+    </comp>
+    <comp ref="MX32">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c6f08f6-c201-49f3-a26e-ffa3c7844345</tstamps>
+    </comp>
+    <comp ref="MX33">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e1fe031-cf5e-4dc9-9773-81a724a90ddc</tstamps>
+    </comp>
+    <comp ref="MX34">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8ba1a77-1a9f-4247-9c25-3bfadca17d3b</tstamps>
+    </comp>
+    <comp ref="MX35">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47403e76-268a-422e-adc8-01fa5b70f32b</tstamps>
+    </comp>
+    <comp ref="MX36">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91a2e184-744e-452a-bf20-67f1152c9a3e</tstamps>
+    </comp>
+    <comp ref="MX37">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a448b720-c830-4df8-a3a1-d728dad8d697</tstamps>
+    </comp>
+    <comp ref="MX38">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69fc2f4c-ea31-4c48-bc49-8c662b948098</tstamps>
+    </comp>
+    <comp ref="MX39">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42d012a9-b364-4ce8-9e0c-5384f62407aa</tstamps>
+    </comp>
+    <comp ref="MX40">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c17a64f7-6361-4227-b4d4-c6cf168c4713</tstamps>
+    </comp>
+    <comp ref="MX41">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5514ab1a-0cb4-498b-8f72-b135cd824348</tstamps>
+    </comp>
+    <comp ref="MX42">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2161214c-168f-4812-8275-70c06e80f8d3</tstamps>
+    </comp>
+    <comp ref="MX43">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6319502-a50a-446d-bfe8-d0aab7e4892b</tstamps>
+    </comp>
+    <comp ref="MX44">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f4ebb84-5357-4b1a-ac31-a21b38ff5a37</tstamps>
+    </comp>
+    <comp ref="MX45">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>354bbcdf-42f7-4c18-9908-1e2b325f0627</tstamps>
+    </comp>
+    <comp ref="MX46">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1b563c95-835a-4f44-8a27-453665346991</tstamps>
+    </comp>
+    <comp ref="MX47">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98302093-7ada-4bd2-9904-76669df619d7</tstamps>
+    </comp>
+    <comp ref="MX48">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f52c0e3-2d24-449c-b34f-1609e7a3867e</tstamps>
+    </comp>
+    <comp ref="MX49">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6cc7250-d64c-4368-a5c1-5c73d64785d0</tstamps>
+    </comp>
+    <comp ref="MX50">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cebdb25-14e6-4f03-bb99-4a08ec83af4e</tstamps>
+    </comp>
+    <comp ref="MX51">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c688dade-8852-4674-a68e-f0193a042e6c</tstamps>
+    </comp>
+    <comp ref="MX52">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3216cbea-d94b-493a-86fc-6bd18868c6ee</tstamps>
+    </comp>
+    <comp ref="MX53">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f108f40a-64d3-41d9-a28a-66e72d2eb748</tstamps>
+    </comp>
+    <comp ref="MX54">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91755d80-8743-4496-854a-e42bc3329e7a</tstamps>
+    </comp>
+    <comp ref="MX55">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c76d4d3b-6f61-4c21-869a-d7a8710427c4</tstamps>
+    </comp>
+    <comp ref="MX56">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71cca936-d0be-4098-99a7-f29a06e66f6b</tstamps>
+    </comp>
+    <comp ref="MX57">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c533577-7111-477b-b526-233b5c57ea97</tstamps>
+    </comp>
+    <comp ref="MX58">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa2787c6-6693-4565-84b9-747da4f8939e</tstamps>
+    </comp>
+    <comp ref="MX59">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c259e0f-1777-4b94-b8b8-2f9c694433cf</tstamps>
+    </comp>
+    <comp ref="MX60">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86e920f7-6c8a-4c40-9437-f6688dbe7474</tstamps>
+    </comp>
+    <comp ref="MX61">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30d42091-69e5-4a42-88ea-8e4b10e2b382</tstamps>
+    </comp>
+    <comp ref="MX62">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8556456-00e2-4896-88fa-d0e0537fdf0e</tstamps>
+    </comp>
+    <comp ref="MX63">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d238460a-847a-4fc7-9267-5aa7a851712f</tstamps>
+    </comp>
+    <comp ref="MX64">
+      <value>MX_SW_HS</value>
+      <footprint>PCM_marbastlib-mx:SW_MX_HS_1u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_SW_HS" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>134bd6e9-110c-42f8-961e-8d8aa4a838ce</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>MX_stab</value>
+      <footprint>PCM_marbastlib-mx:STAB_MX_P_6.25u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7f0c4cb-dbac-4ab3-9a92-428c90566268</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>MX_stab</value>
+      <footprint>PCM_marbastlib-mx:STAB_MX_P_2.25u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>027c272c-c4a2-430f-b9e5-a94639d5445d</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>MX_stab</value>
+      <footprint>PCM_marbastlib-mx:STAB_MX_P_2.25u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99bee579-129b-4e7b-bcc3-b214709825f4</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>MX_stab</value>
+      <footprint>PCM_marbastlib-mx:STAB_MX_P_2.25u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f321c8b3-61b5-438d-9e6e-ef075ad2d063</tstamps>
+    </comp>
+    <comp ref="S5">
+      <value>MX_stab</value>
+      <footprint>PCM_marbastlib-mx:STAB_MX_P_2u</footprint>
+      <libsource lib="PCM_marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>335e4695-0288-4f6a-80c3-1729f4a75941</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Raspberry_Pi_Pico</value>
+      <footprint>ScottoKeebs_MCU:Raspberry_Pi_Pico</footprint>
+      <libsource lib="ScottoKeebs" part="MCU_Raspberry_Pi_Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34fd8896-b24e-40b5-a47c-cb08d9142d65</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="RotaryEncoder_Switch">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs, with switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">RotaryEncoder_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_marbastlib-mx" part="MX_SW_HS">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX_SW_HS</field>
+        <field name="Footprint">PCM_marbastlib-mx:SW_MX_HS_1u</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_marbastlib-mx" part="MX_stab">
+      <description>Cherry MX-style stabilizer</description>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX_stab</field>
+        <field name="Footprint">PCM_marbastlib-mx:STAB_MX_P_6.25u</field>
+      </fields>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="LED_WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_WS2812B</field>
+        <field name="Footprint">ScottoKeebs_Components:LED_WS2812B</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="MCU_Raspberry_Pi_Pico">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Raspberry_Pi_Pico</field>
+        <field name="Footprint">ScottoKeebs_MCU:Raspberry_Pi_Pico</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="OLED_128x64">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">OLED_128x64</field>
+        <field name="Footprint">ScottoKeebs_Components:OLED_128x64</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="ScottoKeebs" part="Placeholder_Diode">
+      <description>1N4148 (DO-35) or 1N4148W (SOD-123)</description>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">Diode</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="PCM_marbastlib-mx">
+      <uri>C:\Users\paowick\Documents\KiCad\7.0\3rdparty/symbols/com_github_ebastler_marbastlib/marbastlib-mx.kicad_sym</uri>
+    </library>
+    <library logical="ScottoKeebs">
+      <uri>C:\Users\paowick\scottokeebs-main\Extras\ScottoKicad/symbols/ScottoKeebs.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="COL0">
+      <node ref="MX1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="COL1">
+      <node ref="MX16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="COL2">
+      <node ref="MX17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="COL3">
+      <node ref="MX18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="COL4">
+      <node ref="MX19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="COL5">
+      <node ref="MX20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="COL6">
+      <node ref="MX21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="COL7">
+      <node ref="MX22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="COL8">
+      <node ref="MX23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="COL9">
+      <node ref="MX10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="COL10">
+      <node ref="MX11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="COL11">
+      <node ref="MX12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="COL12">
+      <node ref="MX13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="COL13">
+      <node ref="MX14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX62" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="COL14">
+      <node ref="MX54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="MX63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="COL15">
+      <node ref="MX64" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+      <node ref="en_co1" pin="S2" pinfunction="S2" pintype="passive"/>
+    </net>
+    <net code="17" name="GND">
+      <node ref="J1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="LED1" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED10" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED11" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED12" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED13" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED14" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED15" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED16" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED17" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED18" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED19" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED2" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED20" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED21" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED22" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED23" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED24" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED25" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED26" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED27" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED28" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED29" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED3" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED30" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED31" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED32" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED33" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED34" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED35" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED36" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED37" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED38" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED39" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED4" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED40" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED41" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED42" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED43" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED44" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED45" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED46" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED47" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED48" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED49" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED5" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED50" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED51" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED52" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED53" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED54" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED55" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED56" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED57" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED58" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED59" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED6" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED60" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED61" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED62" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED63" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED64" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED7" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED8" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED9" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="13" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="28" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="33" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="en_co1" pin="C" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="18" name="LED_DI">
+      <node ref="LED1" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U1" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D24-A)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D27-A)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D29-A)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D31-A)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D32-A)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D33-A)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D34-A)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D35-A)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D36-A)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D37-A)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D38-A)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D39-A)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D40-A)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D41-A)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D42-A)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D43-A)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D44-A)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D45-A)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D46-A)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D47-A)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D48-A)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D49-A)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D50-A)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX50" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D51-A)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D52-A)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX52" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D53-A)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX53" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D54-A)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D55-A)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX55" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D56-A)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX56" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D57-A)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D58-A)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D59-A)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX59" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D60-A)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX60" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D61-A)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D62-A)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX62" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D63-A)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX63" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D64-A)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(LED1-DOUT)">
+      <node ref="LED1" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED2" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(LED2-DOUT)">
+      <node ref="LED2" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED3" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(LED3-DOUT)">
+      <node ref="LED3" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED4" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="86" name="Net-(LED4-DOUT)">
+      <node ref="LED4" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED5" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="87" name="Net-(LED5-DOUT)">
+      <node ref="LED5" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED6" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="88" name="Net-(LED6-DOUT)">
+      <node ref="LED6" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED7" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(LED7-DOUT)">
+      <node ref="LED7" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED8" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="90" name="Net-(LED8-DOUT)">
+      <node ref="LED8" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED9" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="91" name="Net-(LED10-DIN)">
+      <node ref="LED10" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="LED9" pin="2" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="92" name="Net-(LED10-DOUT)">
+      <node ref="LED10" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED11" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="93" name="Net-(LED11-DOUT)">
+      <node ref="LED11" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED12" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="94" name="Net-(LED12-DOUT)">
+      <node ref="LED12" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED13" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(LED13-DOUT)">
+      <node ref="LED13" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED14" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="96" name="Net-(LED14-DOUT)">
+      <node ref="LED14" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED15" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="97" name="Net-(LED15-DOUT)">
+      <node ref="LED15" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED16" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="98" name="Net-(LED16-DOUT)">
+      <node ref="LED16" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED17" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="99" name="Net-(LED17-DOUT)">
+      <node ref="LED17" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED18" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="100" name="Net-(LED18-DOUT)">
+      <node ref="LED18" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED19" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="101" name="Net-(LED19-DOUT)">
+      <node ref="LED19" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED20" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="102" name="Net-(LED20-DOUT)">
+      <node ref="LED20" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED21" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="103" name="Net-(LED21-DOUT)">
+      <node ref="LED21" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED22" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="104" name="Net-(LED22-DOUT)">
+      <node ref="LED22" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED23" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="105" name="Net-(LED23-DOUT)">
+      <node ref="LED23" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED24" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="106" name="Net-(LED24-DOUT)">
+      <node ref="LED24" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED25" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="107" name="Net-(LED25-DOUT)">
+      <node ref="LED25" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED26" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="108" name="Net-(LED26-DOUT)">
+      <node ref="LED26" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED27" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="109" name="Net-(LED27-DOUT)">
+      <node ref="LED27" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED28" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="110" name="Net-(LED28-DOUT)">
+      <node ref="LED28" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED29" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="111" name="Net-(LED29-DOUT)">
+      <node ref="LED29" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED30" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="112" name="Net-(LED30-DOUT)">
+      <node ref="LED30" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED31" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="113" name="Net-(LED31-DOUT)">
+      <node ref="LED31" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED32" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="114" name="Net-(LED32-DOUT)">
+      <node ref="LED32" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED33" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="115" name="Net-(LED33-DOUT)">
+      <node ref="LED33" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED34" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="116" name="Net-(LED34-DOUT)">
+      <node ref="LED34" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED35" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="117" name="Net-(LED35-DOUT)">
+      <node ref="LED35" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED36" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="118" name="Net-(LED36-DOUT)">
+      <node ref="LED36" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED37" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="119" name="Net-(LED37-DOUT)">
+      <node ref="LED37" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED38" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="120" name="Net-(LED38-DOUT)">
+      <node ref="LED38" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED39" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="121" name="Net-(LED39-DOUT)">
+      <node ref="LED39" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED40" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="122" name="Net-(LED40-DOUT)">
+      <node ref="LED40" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED41" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="123" name="Net-(LED41-DOUT)">
+      <node ref="LED41" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED42" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="124" name="Net-(LED42-DOUT)">
+      <node ref="LED42" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED43" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="125" name="Net-(LED43-DOUT)">
+      <node ref="LED43" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED44" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="126" name="Net-(LED44-DOUT)">
+      <node ref="LED44" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED45" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="127" name="Net-(LED45-DOUT)">
+      <node ref="LED45" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED46" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="128" name="Net-(LED46-DOUT)">
+      <node ref="LED46" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED47" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="129" name="Net-(LED47-DOUT)">
+      <node ref="LED47" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED48" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="130" name="Net-(LED48-DOUT)">
+      <node ref="LED48" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED49" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="131" name="Net-(LED49-DOUT)">
+      <node ref="LED49" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED50" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="132" name="Net-(LED50-DOUT)">
+      <node ref="LED50" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED51" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="133" name="Net-(LED51-DOUT)">
+      <node ref="LED51" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED52" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="134" name="Net-(LED52-DOUT)">
+      <node ref="LED52" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED53" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="135" name="Net-(LED53-DOUT)">
+      <node ref="LED53" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED54" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="136" name="Net-(LED54-DOUT)">
+      <node ref="LED54" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED55" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="137" name="Net-(LED55-DOUT)">
+      <node ref="LED55" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED56" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="138" name="Net-(LED56-DOUT)">
+      <node ref="LED56" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED57" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="139" name="Net-(LED57-DOUT)">
+      <node ref="LED57" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED58" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="140" name="Net-(LED58-DOUT)">
+      <node ref="LED58" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED59" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="141" name="Net-(LED59-DOUT)">
+      <node ref="LED59" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED60" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="142" name="Net-(LED60-DOUT)">
+      <node ref="LED60" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED61" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="143" name="Net-(LED61-DOUT)">
+      <node ref="LED61" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED62" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="144" name="Net-(LED62-DOUT)">
+      <node ref="LED62" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED63" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="145" name="Net-(LED63-DOUT)">
+      <node ref="LED63" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED64" pin="4" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="146" name="ROW0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="en_co1" pin="S1" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="147" name="ROW1">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="148" name="ROW2">
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="149" name="ROW3">
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="150" name="ROW4">
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="151" name="SCL">
+      <node ref="J1" pin="3" pinfunction="SCL" pintype="input"/>
+      <node ref="U1" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="152" name="SDA">
+      <node ref="J1" pin="4" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="U1" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="153" name="VBUS">
+      <node ref="J1" pin="2" pinfunction="VCC" pintype="power_in"/>
+      <node ref="LED1" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED10" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED11" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED12" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED13" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED14" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED15" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED16" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED17" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED18" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED19" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED2" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED20" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED21" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED22" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED23" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED24" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED25" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED26" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED27" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED28" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED29" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED3" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED30" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED31" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED32" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED33" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED34" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED35" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED36" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED37" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED38" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED39" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED4" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED40" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED41" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED42" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED43" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED44" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED45" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED46" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED47" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED48" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED49" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED5" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED50" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED51" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED52" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED53" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED54" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED55" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED56" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED57" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED58" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED59" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED6" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED60" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED61" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED62" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED63" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED64" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED7" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED8" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED9" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="40" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="154" name="en_co_A">
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+      <node ref="en_co1" pin="A" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="155" name="en_co_B">
+      <node ref="U1" pin="29" pinfunction="GPIO22" pintype="bidirectional"/>
+      <node ref="en_co1" pin="B" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="156" name="unconnected-(LED64-DOUT-Pad2)">
+      <node ref="LED64" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(U1-3V3-Pad36)">
+      <node ref="U1" pin="36" pinfunction="3V3" pintype="power_in+no_connect"/>
+    </net>
+    <net code="158" name="unconnected-(U1-3V3_EN-Pad37)">
+      <node ref="U1" pin="37" pinfunction="3V3_EN" pintype="input+no_connect"/>
+    </net>
+    <net code="159" name="unconnected-(U1-ADC_VREF-Pad35)">
+      <node ref="U1" pin="35" pinfunction="ADC_VREF" pintype="power_in+no_connect"/>
+    </net>
+    <net code="160" name="unconnected-(U1-GND-Pad42)">
+      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(U1-RUN-Pad30)">
+      <node ref="U1" pin="30" pinfunction="RUN" pintype="input+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(U1-SWCLK-Pad41)">
+      <node ref="U1" pin="41" pinfunction="SWCLK" pintype="input+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(U1-SWDIO-Pad43)">
+      <node ref="U1" pin="43" pinfunction="SWDIO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(U1-VSYS-Pad39)">
+      <node ref="U1" pin="39" pinfunction="VSYS" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>
