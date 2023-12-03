@@ -1,4 +1,4 @@
-(pcb C:\Users\paowick\Desktop\aoi bara_青いバラ\pcb\pcb\freerouting.dsn
+(pcb C:/Users/paowick/Desktop/Keyboard/aoi bara_青いバラ/pcb/pcb\freerouting.dsn
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
@@ -35,72 +35,6 @@
   (placement
     (component ScottoKeebs_MCU:Raspberry_Pi_Pico
       (place U1 355440.000000 -123695.000000 front 0.000000 (PN Raspberry_Pi_Pico))
-    )
-    (component LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
-      (place LED45 147215.000000 -158080.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED10 237735.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED47 185335.000000 -158090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED25 266405.000000 -119950.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED1 66245.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED16 94945.000000 -119950.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED27 304465.000000 -119950.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED64 361565.000000 -177110.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED58 187725.000000 -177110.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED57 116265.000000 -177040.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED30 99605.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED41 321095.000000 -139010.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED38 252065.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED36 213995.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED29 73465.000000 -139010.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED59 256725.000000 -177120.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED35 194885.000000 -139010.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED2 85315.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED14 323525.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED28 328255.000000 -119950.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED49 223415.000000 -158090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED6 161595.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED26 285425.000000 -119980.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED55 68605.000000 -177030.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED3 104425.000000 -100940.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED52 280585.000000 -158070.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED44 128275.000000 -158090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED11 256845.000000 -100930.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED51 261505.000000 -158070.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED8 199655.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED5 142535.000000 -100900.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED61 301985.000000 -177090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED4 123475.000000 -100950.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED17 113955.000000 -119970.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED7 180655.000000 -100900.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED15 71085.000000 -119970.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED54 342495.000000 -158070.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED43 109185.000000 -158000.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED62 323435.000000 -177090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED33 156785.000000 -139010.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED12 275905.000000 -100920.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED19 151995.000000 -119970.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED20 171125.000000 -119970.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED39 271115.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED53 311545.000000 -158070.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED18 133005.000000 -119970.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED50 242515.000000 -158090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED37 233015.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED32 137755.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED60 278215.000000 -177120.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED23 228275.000000 -119970.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED34 175855.000000 -139000.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED9 218725.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED40 290105.000000 -139010.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED42 78225.000000 -157990.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED24 247315.000000 -119960.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED46 166255.000000 -158090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED31 118645.000000 -139020.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED22 209185.000000 -119980.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED56 92445.000000 -177040.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED48 204345.000000 -158090.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED21 190085.000000 -119980.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED13 294925.000000 -100910.000000 front 0.000000 (PN LED_WS2812B))
-      (place LED63 342655.000000 -177310.000000 front 0.000000 (PN LED_WS2812B))
     )
     (component "PCM_marbastlib-mx:STAB_MX_P_2.25u"
       (place S2 78106.250000 -164820.000000 front 180.000000 (PN MX_stab))
@@ -361,36 +295,6 @@
       (pin "Rect[T][-900,0]Pad_3500x1700_um" (rotate 90) 42@1 0 -23900)
       (pin Oval[A]Pad_1700x1700_um 43 2540 -23900)
       (pin "Rect[T][-900,0]Pad_3500x1700_um" (rotate 90) 43@1 2540 -23900)
-    )
-    (image LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
-      (outline (path signal 120  -3650 2750  3650 2750))
-      (outline (path signal 120  -3650 -2750  3650 -2750))
-      (outline (path signal 120  3650 -2750  3650 -1600))
-      (outline (path signal 50  -3450 2750  -3450 -2750))
-      (outline (path signal 50  -3450 -2750  3450 -2750))
-      (outline (path signal 50  3450 2750  -3450 2750))
-      (outline (path signal 50  3450 -2750  3450 2750))
-      (outline (path signal 100  -2500 2500  -2500 -2500))
-      (outline (path signal 100  -2500 -2500  2500 -2500))
-      (outline (path signal 100  2500 2500  -2500 2500))
-      (outline (path signal 100  2500 -1500  1500 -2500))
-      (outline (path signal 100  2500 -2500  2500 2500))
-      (outline (path signal 100  2000 0  1980.54 -278.346  1922.52 -551.275  1827.09 -813.473
-            1696.1 -1059.84  1532.09 -1285.58  1338.26 -1486.29  1118.39 -1658.08
-            876.742 -1797.59  618.034 -1902.11  347.296 -1969.62  69.799 -1998.78
-            -209.057 -1989.04  -483.844 -1940.59  -749.213 -1854.37  -1000 -1732.05
-            -1231.32 -1576.02  -1438.68 -1389.32  -1618.03 -1175.57  -1765.89 -938.943
-            -1879.38 -684.04  -1956.3 -415.823  -1995.13 -139.513  -1995.13 139.513
-            -1956.3 415.823  -1879.38 684.04  -1765.89 938.943  -1618.03 1175.57
-            -1438.68 1389.32  -1231.32 1576.02  -1000 1732.05  -749.213 1854.37
-            -483.844 1940.59  -209.057 1989.04  69.799 1998.78  347.296 1969.62
-            618.034 1902.11  876.742 1797.59  1118.39 1658.08  1338.26 1486.29
-            1532.09 1285.58  1696.1 1059.84  1827.09 813.473  1922.52 551.275
-            1980.54 278.346  2000 0))
-      (pin Rect[T]Pad_1500x900_um 1 -2450 1650)
-      (pin Rect[T]Pad_1500x900_um 2 -2450 -1650)
-      (pin Rect[T]Pad_1500x900_um 3 2450 -1650)
-      (pin Rect[T]Pad_1500x900_um 4 2450 1650)
     )
     (image "PCM_marbastlib-mx:STAB_MX_P_2.25u"
       (outline (path signal 120  -21431.2 9525  -21431.2 -9525))
@@ -910,10 +814,6 @@
       (shape (rect F.Cu -2650 -850 850 850))
       (attach off)
     )
-    (padstack Rect[T]Pad_1500x900_um
-      (shape (rect F.Cu -750 -450 750 450))
-      (attach off)
-    )
     (padstack Rect[A]Pad_1600x1600_um
       (shape (rect F.Cu -800 -800 800 800))
       (shape (rect B.Cu -800 -800 800 800))
@@ -1158,26 +1058,13 @@
     )
     (net GND
       (pins U1-3 U1-3@1 U1-8 U1-8@1 U1-13 U1-13@1 U1-18 U1-18@1 U1-23 U1-23@1 U1-28
-        U1-28@1 U1-33 U1-33@1 U1-38 U1-38@1 U1-42 U1-42@1 LED45-3 LED10-3 LED47-3
-        LED25-3 LED1-3 en_co1-C LED16-3 LED27-3 LED64-3 LED58-3 LED57-3 LED30-3 LED41-3
-        LED38-3 LED36-3 LED29-3 LED59-3 LED35-3 LED2-3 LED14-3 LED28-3 LED49-3 LED6-3
-        LED26-3 LED55-3 LED3-3 LED52-3 LED44-3 LED11-3 LED51-3 LED8-3 LED5-3 J1-1
-        LED61-3 LED4-3 LED17-3 LED7-3 LED15-3 LED54-3 LED43-3 LED62-3 LED33-3 LED12-3
-        LED19-3 LED20-3 LED39-3 LED53-3 LED18-3 LED50-3 LED37-3 LED32-3 LED60-3 LED23-3
-        LED34-3 LED9-3 LED40-3 LED42-3 LED24-3 LED46-3 LED31-3 LED22-3 LED56-3 LED48-3
-        LED21-3 LED13-3 LED63-3)
+        U1-28@1 U1-33 U1-33@1 U1-38 U1-38@1 U1-42 U1-42@1 en_co1-C J1-1)
     )
     (net COL15
       (pins U1-26 U1-26@1 en_co1-S2 MX64-1 MX64-1@1 MX64-1@2)
     )
     (net VBUS
-      (pins U1-40 U1-40@1 LED45-1 LED10-1 LED47-1 LED25-1 LED1-1 LED16-1 LED27-1 LED64-1
-        LED58-1 LED57-1 LED30-1 LED41-1 LED38-1 LED36-1 LED29-1 LED59-1 LED35-1 LED2-1
-        LED14-1 LED28-1 LED49-1 LED6-1 LED26-1 LED55-1 LED3-1 LED52-1 LED44-1 LED11-1
-        LED51-1 LED8-1 LED5-1 J1-2 LED61-1 LED4-1 LED17-1 LED7-1 LED15-1 LED54-1 LED43-1
-        LED62-1 LED33-1 LED12-1 LED19-1 LED20-1 LED39-1 LED53-1 LED18-1 LED50-1 LED37-1
-        LED32-1 LED60-1 LED23-1 LED34-1 LED9-1 LED40-1 LED42-1 LED24-1 LED46-1 LED31-1
-        LED22-1 LED56-1 LED48-1 LED21-1 LED13-1 LED63-1)
+      (pins U1-40 U1-40@1 J1-2)
     )
     (net SCL
       (pins U1-32 U1-32@1 J1-3)
@@ -1185,200 +1072,8 @@
     (net SDA
       (pins U1-31 U1-31@1 J1-4)
     )
-    (net "Net-(LED1-DOUT)"
-      (pins LED1-2 LED2-4)
-    )
     (net LED_DI
-      (pins U1-34 U1-34@1 LED1-4)
-    )
-    (net "Net-(LED2-DOUT)"
-      (pins LED2-2 LED3-4)
-    )
-    (net "Net-(LED3-DOUT)"
-      (pins LED3-2 LED4-4)
-    )
-    (net "Net-(LED4-DOUT)"
-      (pins LED5-4 LED4-2)
-    )
-    (net "Net-(LED5-DOUT)"
-      (pins LED6-4 LED5-2)
-    )
-    (net "Net-(LED6-DOUT)"
-      (pins LED6-2 LED7-4)
-    )
-    (net "Net-(LED7-DOUT)"
-      (pins LED8-4 LED7-2)
-    )
-    (net "Net-(LED8-DOUT)"
-      (pins LED8-2 LED9-4)
-    )
-    (net "Net-(LED10-DIN)"
-      (pins LED10-4 LED9-2)
-    )
-    (net "Net-(LED10-DOUT)"
-      (pins LED10-2 LED11-4)
-    )
-    (net "Net-(LED11-DOUT)"
-      (pins LED11-2 LED12-4)
-    )
-    (net "Net-(LED12-DOUT)"
-      (pins LED12-2 LED13-4)
-    )
-    (net "Net-(LED13-DOUT)"
-      (pins LED14-4 LED13-2)
-    )
-    (net "Net-(LED14-DOUT)"
-      (pins LED14-2 LED15-4)
-    )
-    (net "Net-(LED15-DOUT)"
-      (pins LED16-4 LED15-2)
-    )
-    (net "Net-(LED16-DOUT)"
-      (pins LED16-2 LED17-4)
-    )
-    (net "Net-(LED17-DOUT)"
-      (pins LED17-2 LED18-4)
-    )
-    (net "Net-(LED18-DOUT)"
-      (pins LED19-4 LED18-2)
-    )
-    (net "Net-(LED19-DOUT)"
-      (pins LED19-2 LED20-4)
-    )
-    (net "Net-(LED20-DOUT)"
-      (pins LED20-2 LED21-4)
-    )
-    (net "Net-(LED21-DOUT)"
-      (pins LED22-4 LED21-2)
-    )
-    (net "Net-(LED22-DOUT)"
-      (pins LED23-4 LED22-2)
-    )
-    (net "Net-(LED23-DOUT)"
-      (pins LED23-2 LED24-4)
-    )
-    (net "Net-(LED24-DOUT)"
-      (pins LED25-4 LED24-2)
-    )
-    (net "Net-(LED25-DOUT)"
-      (pins LED25-2 LED26-4)
-    )
-    (net "Net-(LED26-DOUT)"
-      (pins LED27-4 LED26-2)
-    )
-    (net "Net-(LED27-DOUT)"
-      (pins LED27-2 LED28-4)
-    )
-    (net "Net-(LED28-DOUT)"
-      (pins LED29-4 LED28-2)
-    )
-    (net "Net-(LED29-DOUT)"
-      (pins LED30-4 LED29-2)
-    )
-    (net "Net-(LED30-DOUT)"
-      (pins LED30-2 LED31-4)
-    )
-    (net "Net-(LED31-DOUT)"
-      (pins LED32-4 LED31-2)
-    )
-    (net "Net-(LED32-DOUT)"
-      (pins LED33-4 LED32-2)
-    )
-    (net "Net-(LED33-DOUT)"
-      (pins LED33-2 LED34-4)
-    )
-    (net "Net-(LED34-DOUT)"
-      (pins LED35-4 LED34-2)
-    )
-    (net "Net-(LED35-DOUT)"
-      (pins LED36-4 LED35-2)
-    )
-    (net "Net-(LED36-DOUT)"
-      (pins LED36-2 LED37-4)
-    )
-    (net "Net-(LED37-DOUT)"
-      (pins LED38-4 LED37-2)
-    )
-    (net "Net-(LED38-DOUT)"
-      (pins LED38-2 LED39-4)
-    )
-    (net "Net-(LED39-DOUT)"
-      (pins LED39-2 LED40-4)
-    )
-    (net "Net-(LED40-DOUT)"
-      (pins LED41-4 LED40-2)
-    )
-    (net "Net-(LED41-DOUT)"
-      (pins LED41-2 LED42-4)
-    )
-    (net "Net-(LED42-DOUT)"
-      (pins LED43-4 LED42-2)
-    )
-    (net "Net-(LED43-DOUT)"
-      (pins LED44-4 LED43-2)
-    )
-    (net "Net-(LED44-DOUT)"
-      (pins LED45-4 LED44-2)
-    )
-    (net "Net-(LED45-DOUT)"
-      (pins LED45-2 LED46-4)
-    )
-    (net "Net-(LED46-DOUT)"
-      (pins LED47-4 LED46-2)
-    )
-    (net "Net-(LED47-DOUT)"
-      (pins LED47-2 LED48-4)
-    )
-    (net "Net-(LED48-DOUT)"
-      (pins LED49-4 LED48-2)
-    )
-    (net "Net-(LED49-DOUT)"
-      (pins LED49-2 LED50-4)
-    )
-    (net "Net-(LED50-DOUT)"
-      (pins LED51-4 LED50-2)
-    )
-    (net "Net-(LED51-DOUT)"
-      (pins LED52-4 LED51-2)
-    )
-    (net "Net-(LED52-DOUT)"
-      (pins LED52-2 LED53-4)
-    )
-    (net "Net-(LED53-DOUT)"
-      (pins LED54-4 LED53-2)
-    )
-    (net "Net-(LED54-DOUT)"
-      (pins LED55-4 LED54-2)
-    )
-    (net "Net-(LED55-DOUT)"
-      (pins LED55-2 LED56-4)
-    )
-    (net "Net-(LED56-DOUT)"
-      (pins LED57-4 LED56-2)
-    )
-    (net "Net-(LED57-DOUT)"
-      (pins LED58-4 LED57-2)
-    )
-    (net "Net-(LED58-DOUT)"
-      (pins LED58-2 LED59-4)
-    )
-    (net "Net-(LED59-DOUT)"
-      (pins LED59-2 LED60-4)
-    )
-    (net "Net-(LED60-DOUT)"
-      (pins LED61-4 LED60-2)
-    )
-    (net "Net-(LED61-DOUT)"
-      (pins LED61-2 LED62-4)
-    )
-    (net "Net-(LED62-DOUT)"
-      (pins LED62-2 LED63-4)
-    )
-    (net "Net-(LED63-DOUT)"
-      (pins LED64-4 LED63-2)
-    )
-    (net "unconnected-(LED64-DOUT-Pad2)"
-      (pins LED64-2)
+      (pins U1-34 U1-34@1)
     )
     (net COL0
       (pins U1-7 U1-7@1 MX15-1 MX15-1@1 MX15-1@2 MX29-1 MX29-1@1 MX29-1@2 MX42-1 MX42-1@1
@@ -1474,23 +1169,7 @@
       "Net-(D52-A)" "Net-(D53-A)" "Net-(D54-A)" "Net-(D55-A)" "Net-(D56-A)"
       "Net-(D57-A)" "Net-(D58-A)" "Net-(D59-A)" "Net-(D6-A)" "Net-(D60-A)"
       "Net-(D61-A)" "Net-(D62-A)" "Net-(D63-A)" "Net-(D64-A)" "Net-(D7-A)"
-      "Net-(D8-A)" "Net-(D9-A)" "Net-(LED1-DOUT)" "Net-(LED10-DIN)" "Net-(LED10-DOUT)"
-      "Net-(LED11-DOUT)" "Net-(LED12-DOUT)" "Net-(LED13-DOUT)" "Net-(LED14-DOUT)"
-      "Net-(LED15-DOUT)" "Net-(LED16-DOUT)" "Net-(LED17-DOUT)" "Net-(LED18-DOUT)"
-      "Net-(LED19-DOUT)" "Net-(LED2-DOUT)" "Net-(LED20-DOUT)" "Net-(LED21-DOUT)"
-      "Net-(LED22-DOUT)" "Net-(LED23-DOUT)" "Net-(LED24-DOUT)" "Net-(LED25-DOUT)"
-      "Net-(LED26-DOUT)" "Net-(LED27-DOUT)" "Net-(LED28-DOUT)" "Net-(LED29-DOUT)"
-      "Net-(LED3-DOUT)" "Net-(LED30-DOUT)" "Net-(LED31-DOUT)" "Net-(LED32-DOUT)"
-      "Net-(LED33-DOUT)" "Net-(LED34-DOUT)" "Net-(LED35-DOUT)" "Net-(LED36-DOUT)"
-      "Net-(LED37-DOUT)" "Net-(LED38-DOUT)" "Net-(LED39-DOUT)" "Net-(LED4-DOUT)"
-      "Net-(LED40-DOUT)" "Net-(LED41-DOUT)" "Net-(LED42-DOUT)" "Net-(LED43-DOUT)"
-      "Net-(LED44-DOUT)" "Net-(LED45-DOUT)" "Net-(LED46-DOUT)" "Net-(LED47-DOUT)"
-      "Net-(LED48-DOUT)" "Net-(LED49-DOUT)" "Net-(LED5-DOUT)" "Net-(LED50-DOUT)"
-      "Net-(LED51-DOUT)" "Net-(LED52-DOUT)" "Net-(LED53-DOUT)" "Net-(LED54-DOUT)"
-      "Net-(LED55-DOUT)" "Net-(LED56-DOUT)" "Net-(LED57-DOUT)" "Net-(LED58-DOUT)"
-      "Net-(LED59-DOUT)" "Net-(LED6-DOUT)" "Net-(LED60-DOUT)" "Net-(LED61-DOUT)"
-      "Net-(LED62-DOUT)" "Net-(LED63-DOUT)" "Net-(LED7-DOUT)" "Net-(LED8-DOUT)"
-      ROW0 ROW1 ROW2 ROW3 ROW4 SCL SDA en_co_A en_co_B "unconnected-(LED64-DOUT-Pad2)"
+      "Net-(D8-A)" "Net-(D9-A)" ROW0 ROW1 ROW2 ROW3 ROW4 SCL SDA en_co_A en_co_B
       "unconnected-(U1-3V3-Pad36)" "unconnected-(U1-3V3_EN-Pad37)" "unconnected-(U1-ADC_VREF-Pad35)"
       "unconnected-(U1-RUN-Pad30)" "unconnected-(U1-SWCLK-Pad41)" "unconnected-(U1-SWDIO-Pad43)"
       "unconnected-(U1-VSYS-Pad39)"
@@ -1607,7 +1286,8 @@
     (wire (path B.Cu 250  86306.2 -188970  83676.2 -188970  83666.2 -188960)(net "Net-(D56-A)")(type route))
     (wire (path B.Cu 250  107489 -188970  107479 -188960)(net "Net-(D57-A)")(type route))
     (wire (path B.Cu 250  110119 -188970  107489 -188970)(net "Net-(D57-A)")(type route))
-    (wire (path B.Cu 250  181556 -188970  178926 -188970  178916 -188960)(net "Net-(D58-A)")(type route))
+    (wire (path B.Cu 250  178926 -188970  178916 -188960)(net "Net-(D58-A)")(type route))
+    (wire (path B.Cu 250  181556 -188970  178926 -188970)(net "Net-(D58-A)")(type route))
     (wire (path B.Cu 250  250612 -188970  247982 -188970  247972 -188960)(net "Net-(D59-A)")(type route))
     (wire (path B.Cu 250  269414 -188970  269404 -188960)(net "Net-(D60-A)")(type route))
     (wire (path B.Cu 250  272044 -188970  269414 -188970)(net "Net-(D60-A)")(type route))
