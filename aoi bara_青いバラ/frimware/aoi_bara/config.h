@@ -12,6 +12,8 @@
 #define ENCODERS_PAD_B { GP22 }
 #define ENCODER_RESOLUTION 1
 
+#define AUDIO_PIN GP28
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
