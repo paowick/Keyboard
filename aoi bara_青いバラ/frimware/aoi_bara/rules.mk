@@ -9,7 +9,7 @@ OLED_DRIVER = ssd1306
 LTO_ENABLE = yes
 
 AUDIO_ENABLE = yes
-AUDIO_DRIVER = pwm_software
+AUDIO_DRIVER = pwm_hardware
 
 ENCODER_ENABLE = yes
 
