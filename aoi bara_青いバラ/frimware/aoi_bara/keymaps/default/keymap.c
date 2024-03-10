@@ -38,6 +38,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         ),
 };
 
+#ifdef AUDIO_ENABLE
+
+    float CAPS_ON[][2]    = SONG(CAPS_LOCK_ON_SOUND);
+    float CAPS_OFF[][2]    = SONG(CAPS_LOCK_OFF_SOUND);
+
+#endif
 
 #ifdef OLED_ENABLE
 
@@ -87,10 +93,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         led_t led_state = host_keyboard_led_state();
         if (led_state.caps_lock)
         {
-           oled_write_raw(Caps,sizeof(Caps));
+            oled_write_raw(Caps,sizeof(Caps));
         }else
         {
-           oled_write_raw(CapsOff,sizeof(CapsOff));
+            oled_write_raw(CapsOff,sizeof(CapsOff));
         }
         
         
@@ -130,7 +136,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
             break;
         }
         return false;
-}
+    }
 #endif
 
 bool encoder_update_user(uint8_t index, bool clockwise) {
