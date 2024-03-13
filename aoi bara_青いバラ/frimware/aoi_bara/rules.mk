@@ -16,4 +16,6 @@ AUDIO_DRIVER = pwm_hardware
 
 ENCODER_ENABLE = yes
 
+WPM_ENABLE = yes
+
 OPT_DEFS += -DHAL_USE_I2C=TRUE

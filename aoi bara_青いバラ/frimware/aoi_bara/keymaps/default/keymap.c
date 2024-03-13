@@ -70,7 +70,10 @@ uint8_t gif = 0;
         }
         
         
-        
+        oled_set_cursor(0,5);
+        oled_write("wpm :", false);
+        oled_set_cursor(6,5);
+        oled_write(get_u8_str(get_current_wpm(), '0'), false);
         
         oled_set_cursor(0,0);
         oled_write("BASE", false);
