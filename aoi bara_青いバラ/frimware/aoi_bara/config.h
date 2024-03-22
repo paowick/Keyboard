@@ -1,5 +1,9 @@
 
 #pragma once
+
+#define VIAL_KEYBOARD_UID {0x5C, 0x88, 0xF7, 0xAC, 0x9F, 0x69, 0x14, 0xA6}
+#define VIAL_UNLOCK_COMBO_ROWS {0,0}
+#define VIAL_UNLOCK_COMBO_COLS {0,1}
 #define I2C_DRIVER I2CD1
 #define HAL_USE_I2C TRUE
 #define I2C1_SDA_PIN GP26
